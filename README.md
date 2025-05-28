@@ -1,7 +1,6 @@
 # 📊 Estadística
 
-Este repositorio contiene mis apuntes, ejercicios y resúmenes de la materia **Estadística**, cursada en la facultad. Está pensado como un recurso de estudio para estudiantes que estén viendo la materia o quieran repasar conceptos clave.
-
+Este repositorio contiene mis proyectos de **Estadística**, cursada en la facultad. 
 ## 📚 Contenido
 
 - [x] Estadística descriptiva  
@@ -13,20 +12,17 @@ Este repositorio contiene mis apuntes, ejercicios y resúmenes de la materia **E
 - [x] Regresión y correlación  
 - [x] Análisis de varianza (ANOVA)  
 
-> Los apuntes están en formato PDF, Markdown y/o cuadernos Jupyter, según el tema.
-
 ## 🧠 Recursos Incluidos
 
 - Apuntes teóricos
 - Ejercicios resueltos
-- Formularios y resúmenes
-- Enlaces a recursos externos
 - Visualizaciones (cuando aplica)
 
 ## 🔧 Herramientas utilizadas
 
-- Markdown para los apuntes
-- Python (NumPy, pandas, matplotlib) para algunos ejemplos prácticos
-- Jupyter Notebooks
+- R
+- Minitab
+- Excel
+- Word (PDF, que contienen explicacion de los proyectos )
 
 
